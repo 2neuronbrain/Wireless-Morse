@@ -360,7 +360,5 @@ Before operating the full Morse firmware, verify radio functionality and RF link
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for complete details.
 
 ### Author
-- **Himanshu Rajendra Chauragade**
-  - GitHub: [@HimanshuChauragade](https://github.com/HimanshuChauragade)
-  - LinkedIn: [Himanshu Chauragade](https://linkedin.com/in/himanshu-chauragade/)
-  - Email: himanshu.chauragade@gmail.com
+- Himanshu
+- Email: himanshu.chauragade@gmail.com
